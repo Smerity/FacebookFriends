@@ -5,7 +5,7 @@ $PluginInfo['FacebookFriends'] = array(
    'Description' => "Shows the real name of any of your Facebook friends on the Vanilla Forum if you log in with the Facebook plugin",
    'Version' => '0.1',
    'RequiredApplications' => array('Vanilla' => '2.0.17'),
-   'RequiredTheme' => FALSE, 
+   'RequiredTheme' => FALSE,
    'RequiredPlugins' => FALSE,
    'HasLocale' => FALSE,
    'RegisterPermissions' => FALSE,
@@ -66,7 +66,7 @@ class FacebookFriendsPlugin extends Gdn_Plugin {
          }
       }
    }
-   
+
    /**
     * Insert the real names next to the people's names
     */
