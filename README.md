@@ -3,6 +3,8 @@ Facebook Friends
 
 This is a plugin for [Vanilla Forums](http://vanillaforums.org/) that gives Facebook users the ability to see the real name of anyone they're friends with.
 
+![Example: Superman reveals his identity](https://github.com/Smerity/FacebookFriends/raw/master/example.png "Superman reveals his identity")
+
 Important Notes
 ---------------
 
